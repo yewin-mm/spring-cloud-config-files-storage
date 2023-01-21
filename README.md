@@ -56,7 +56,7 @@ and communicate with [Spring Cloud Config Sample Microservice B](https://github.
 <a name="about-the-project"></a>
 ## ⚡️About The Project
 This is Demo repository for Spring Cloud Config file storage. <br>
-This config file storage is for all appliactions as centralization and [cloud config server](https://github.com/yewin-mm/spring-cloud-config-server) will fetch desire application properties from this repository through `Git`.<br>
+This config file storage is for all appliactions as centralize configuration and [cloud config server](https://github.com/yewin-mm/spring-cloud-config-server) will fetch desire application properties from this repository through `Git`.<br>
 So, firstly, you need to put `application.properties` or `yml` for this application to `Github` or `Bitbucket` or you can even use your local config folder which already committed to local git repository. <br>
 Here, config file means your application require file like `application.properties` or `application.yml` file.
 
